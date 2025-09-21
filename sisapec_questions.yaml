@@ -1,0 +1,229 @@
+
+# Perguntas do SisAPEC (editável). Você pode reorganizar, remover ou adicionar.
+sections:
+  - name: "Dados Pessoais"
+    questions:
+      - "Nome completo"
+      - "Nome social"
+      - "CPF"
+      - "Cartão SUS"
+      - "Data de nascimento"
+      - "Idade"
+      - "Sexo biológico"
+      - "Gênero"
+      - "Telefone"
+      - "E-mail"
+
+  - name: "Dados Sociodemográficos"
+    questions:
+      - "Estado civil"
+      - "Etnia/Cor"
+      - "Religião"
+      - "Número de dependentes"
+      - "Renda familiar"
+      - "Escolaridade"
+      - "Ocupação/Profissão"
+      - "Idioma da anamnese"
+
+  - name: "Endereço"
+    questions:
+      - "CEP"
+      - "Logradouro"
+      - "Número"
+      - "Complemento"
+      - "Bairro"
+      - "Município"
+      - "UF"
+      - "País"
+
+  - name: "Promoção da Saúde"
+    questions:
+      - "Queixa principal"
+      - "Histórico de internações"
+      - "Intervenções cirúrgicas"
+      - "Acompanhamento de saúde"
+      - "Última visita ao serviço de saúde"
+      - "Tabagismo (tipo/tempo/frequência)"
+      - "Etilismo (tipo/quantidade/frequência)"
+      - "Uso de medicamentos (quais/dose/adesão)"
+      - "Orientações de saúde recebidas"
+
+  - name: "Nutrição"
+    questions:
+      - "Ingestão diária de líquidos (tipo/frequência)"
+      - "Sede"
+      - "Problemas para alimentar-se"
+      - "Dificuldade de deglutição"
+      - "Alterações de apetite"
+      - "Restrições alimentares"
+      - "Alimentos consumidos e frequência"
+
+  - name: "Eliminação"
+    questions:
+      - "Evacuações: frequência e características"
+      - "Problemas para evacuar"
+      - "Micções: frequência e características"
+      - "Problemas urinários"
+      - "Noctúria"
+
+  - name: "Atividade e Repouso"
+    questions:
+      - "Energia para atividades habituais"
+      - "Prática de exercícios físicos (tipo/frequência)"
+      - "Limitações de locomoção"
+      - "Atividades de lazer"
+      - "Qualidade do sono"
+      - "Tempo de sono"
+      - "Medicamentos para dormir"
+      - "Problemas com o sono"
+
+  - name: "Percepção e Cognição"
+    questions:
+      - "Uso de óculos/contato"
+      - "Última consulta oftalmológica"
+      - "Dificuldades visuais"
+      - "Dificuldades auditivas"
+      - "Obstrução/congestão nasal"
+      - "Percepção de odores"
+      - "Dificuldade de aprendizagem"
+      - "Estado emocional/percepção sensorial"
+
+  - name: "Auto-percepção"
+    questions:
+      - "Autoavaliação"
+      - "O que gostaria de mudar"
+      - "Mudanças percebidas após a doença"
+      - "Quais mudanças"
+
+  - name: "Relação de Papéis"
+    questions:
+      - "Com quem convive"
+      - "Relações familiares"
+      - "Impacto da doença na vida pessoal"
+      - "Sente-se sozinho(a)"
+      - "Pertence a grupos/associações"
+      - "Relação no trabalho"
+      - "Impacto financeiro"
+      - "Renda atende às necessidades"
+
+  - name: "Sexualidade (geral)"
+    questions:
+      - "Idade da primeira relação"
+      - "Vida sexual ativa"
+      - "Número de parceiros"
+      - "Problemas sexuais percebidos"
+      - "Mudanças no hábito sexual"
+      - "Satisfação com a vida sexual"
+      - "Libido"
+      - "Método contraceptivo e satisfação"
+      - "Planejamento familiar"
+      - "Histórico de ISTs"
+
+  - name: "Formulário da Mulher"
+    questions:
+      - "Sangramento pós-relação sexual"
+      - "Sintomas vaginais"
+      - "Menarca (idade)"
+      - "Ciclo menstrual (tipo)"
+      - "Intervalo do ciclo (dias)"
+      - "Duração da menstruação (dias)"
+      - "Quantidade do fluxo"
+      - "Sangramento entre menstruações"
+      - "Menopausa (idade)"
+      - "Exames preventivos (colpocitologia, mamografia)"
+      - "Já gestou/está gestante"
+
+  - name: "Enfrentamento e Estresse"
+    questions:
+      - "Como alivia o nervosismo"
+      - "Se ajuda"
+      - "O que faz diante de problemas"
+      - "Gostaria de agir diferente"
+
+  - name: "Princípios de Vida"
+    questions:
+      - "Prática religiosa"
+      - "Religião (qual)"
+      - "Ajuda nos momentos difíceis"
+      - "Como ajuda"
+      - "Necessita acompanhamento espiritual"
+
+  - name: "Segurança e Proteção"
+    questions:
+      - "Infecções"
+      - "Reações alérgicas"
+      - "Riscos ambientais/domiciliares"
+      - "Violências"
+      - "Outros riscos"
+
+  - name: "Conforto"
+    questions:
+      - "Desconfortos presentes"
+      - "Especificar desconfortos"
+
+  - name: "Crescimento e Desenvolvimento"
+    questions:
+      - "Desenvolvimento compatível com idade"
+      - "Especificações"
+
+  - name: "Outros"
+    questions:
+      - "Observações adicionais"
+
+  - name: "Exame Físico – Dados Vitais"
+    questions:
+      - "Pressão arterial (mmHg)"
+      - "Posição da medida de PA"
+      - "Frequência cardíaca (bpm)"
+      - "Frequência respiratória (irpm)"
+      - "Temperatura (°C)"
+
+  - name: "Exame Físico – Antropometria"
+    questions:
+      - "Peso (kg)"
+      - "Altura (cm)"
+      - "IMC"
+      - "Circunferência da cintura (cm)"
+
+  - name: "Exame Físico – Cabeça e Pescoço"
+    questions:
+      - "Crânio/couro cabeludo/cabelo/sobrancelhas"
+      - "Olhos (pálpebras/conjuntiva/córnea/esclera/pupilas)"
+      - "Nariz (integridade/posição/desvio)"
+      - "Ouvidos (integridade/simetria)"
+      - "Boca/faringe (língua/úvula/tonsilas/lesões)"
+      - "Região cervical/tireoide/linfonodos"
+
+  - name: "Exame Físico – Membros"
+    questions:
+      - "Sistema locomotor (integridade/estado)"
+      - "Pulsos periféricos (D/E)"
+      - "MMSS (amplitude/edema)"
+      - "MMII (alinhamento/comprimento/ADM/edema)"
+      - "Força/tônus/equilíbrio/turgor cutâneo"
+
+  - name: "Exame Físico – Tórax e Abdome"
+    questions:
+      - "Respiração (padrão/amplitude/expansibilidade)"
+      - "Ausculta/percussão pulmonar"
+      - "Avaliação cardíaca (focos)"
+      - "Avaliação abdominal (9 quadrantes)"
+      - "Avaliação renal/inguinal"
+
+  - name: "Exame Físico – Sexualidade/Ginecológico/Obstétrico"
+    questions:
+      - "Genitália masculina (integridade/simetria/higiene/pelos/parasitas)"
+      - "Genitália feminina (integridade/simetria/lesões/higiene/pelos/parasitas)"
+      - "Exame clínico das mamas"
+      - "Inspeção genital externa e anal"
+      - "Exame especular (visualização/desvio colo/leucorreia/quantidade/cor/odor/Schiller)"
+      - "Conduta/encaminhamento ginecológico"
+      - "Dados fetais (situação/apresentação/posição/AU/BCF/Pinard)"
+      - "Sinais clínicos da gestação (edema/linha nigra/sinal de Cullen)"
+
+  - name: "Diagnóstico"
+    questions:
+      - "Diagnósticos do paciente"
+      - "Resultados esperados"
+      - "Intervenções planejadas"
+      - "Evolução do paciente"
